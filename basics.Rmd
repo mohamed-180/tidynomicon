@@ -154,7 +154,7 @@ it has no result,
 so Python does not display anything when this command is run.
 
 The equivalent operation in R uses a function called `c`,
-which stands for "column" and which creates a [vector](glossary.html#vector):
+which stands for "combine" and which creates a [vector](glossary.html#vector):
 
 ```{r r-vector}
 primes <- c(3, 5, 7, 11)
